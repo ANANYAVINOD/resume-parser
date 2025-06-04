@@ -70,3 +70,9 @@ adaptability
 presentation
 time management
 creativity
+
+Manual Testing
+Database Testing
+Web Testing
+Mobile Testing
+Selenium with Java
