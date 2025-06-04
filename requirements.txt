@@ -1,0 +1,5 @@
+pdfminer.six
+docx2txt
+spacy
+nltk
+streamlit

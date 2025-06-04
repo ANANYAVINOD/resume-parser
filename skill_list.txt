@@ -1,0 +1,10 @@
+python
+machine learning
+data analysis
+sql
+excel
+communication
+project management
+django
+aws
+react
