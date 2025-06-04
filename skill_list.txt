@@ -1,10 +1,72 @@
 python
-machine learning
-data analysis
-sql
-excel
-communication
-project management
-django
-aws
+java
+c++
+javascript
+typescript
+html
+css
 react
+angular
+vue
+node.js
+express
+django
+flask
+spring
+next.js
+
+sql
+postgresql
+mysql
+mongodb
+firebase
+redis
+
+machine learning
+deep learning
+data analysis
+data science
+data engineering
+nlp
+computer vision
+pandas
+numpy
+scikit-learn
+tensorflow
+keras
+pytorch
+matplotlib
+seaborn
+power bi
+tableau
+excel
+
+git
+github
+jira
+agile
+scrum
+api
+rest
+graphql
+linux
+bash
+docker
+kubernetes
+aws
+azure
+gcp
+ci/cd
+jenkins
+terraform
+
+project management
+communication
+leadership
+teamwork
+problem solving
+critical thinking
+adaptability
+presentation
+time management
+creativity
